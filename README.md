@@ -29,4 +29,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Esse projeto foi desenvolvido a fim de criar páginas responsivas com React e Tailwindcss e o uso da biblioteca Framer Motion
+Esse projeto foi desenvolvido a fim de criar páginas responsivas com React e Tailwindcss e o uso da biblioteca Framer Motion, inspirado no layout do site The Coding Journey.

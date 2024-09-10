@@ -12,7 +12,7 @@ export function Banner({ image, title, subtitle, link }) {
             transition={{ type: "spring", stiffness: 100, delay: 0.2 }}
             src={image}
             alt={title}
-            className="w-[300px] lg:max-w-[400px] xl:min-w-[600px] h-full object-cover"
+            className="w-[300px] lg:max-w-[400px] xl:min-w-[500px] h-full object-cover"
           />
         </div>
 

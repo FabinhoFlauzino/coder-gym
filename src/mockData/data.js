@@ -1,4 +1,3 @@
-import { delay } from "framer-motion"
 import Image1 from "../assets/tabs/1.png"
 import Image2 from "../assets/tabs/2.png"
 import Image3 from "../assets/tabs/3.png"

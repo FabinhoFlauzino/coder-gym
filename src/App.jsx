@@ -7,6 +7,8 @@ import Img1 from "./assets/2.png"
 import Img2 from "./assets/3.png"
 import { Tab } from "./components/Tab"
 import { Testimonials } from "./components/Testimonials"
+import { BannerFooter } from "./components/Banner/BannerFooter"
+import { Footer } from "./components/Footer"
 
 const BannerData = {
   image: Img1,
@@ -42,6 +44,8 @@ function App() {
       <Tab />
       <Banner {...Banner2Data}/>
       <Testimonials />
+      <BannerFooter />
+      <Footer />
     </div>
   )
 }
